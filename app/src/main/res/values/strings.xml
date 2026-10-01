@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Protobase</string>
+    <string name="cuenta_format">Cuenta: %1$s</string>
+    <string name="no_alumnos">No hay alumnos registrados</string>
+    <string name="agregar_alumno">Agregar Alumno</string>
+    <string name="editar_alumno">Editar Alumno</string>
+    <string name="eliminar_alumno">Eliminar Alumno</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_cuenta">Número de cuenta</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_imagen">URL de la imagen (foto)</string>
+    <string name="confirmar_eliminar_msg">¿Estás seguro de que deseas eliminar a %1$s?</string>
+    <string name="lista_alumnos">Lista de Alumnos</string>
+</resources>
